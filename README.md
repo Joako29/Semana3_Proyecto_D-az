@@ -1,2 +1,4 @@
 # Semana3_Proyecto_D-az
-# Cambio realizado en la rama de prueba por Joako
+# Proyecto Semana 3
+Este cambio fue hecho en la rama-prueba por Joako.
+
